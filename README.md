@@ -49,8 +49,6 @@
 
 <hr style="border: 1px solid #8a2be2; margin: 30px 0;">
 
-<hr style="border: 1px solid #8a2be2; margin: 30px 0;">
-
 ## 💻 Tech Stack
 
 <div align="center">

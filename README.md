@@ -49,59 +49,6 @@
 
 <hr style="border: 1px solid #8a2be2; margin: 30px 0;">
 
-## 🚀 Projects
-
-<div align="center">
-  <!-- Project Cards -->
-  <table style="border-collapse: separate; border-spacing: 15px;">
-    <tr>
-      <td align="center" style="background-color: #252525; border-radius: 10px; padding: 15px; width: 50%;">
-        <h3>🏠 Nekoniiis-Home</h3>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-        <p>A personal homepage project showcasing my work and skills in a modern, responsive design.</p>
-        <p><b>Features</b>: Responsive design, portfolio showcase, contact form</p>
-        <a href="https://github.com/Nekoniiis/Nekoniiis-Home">
-          <img src="https://img.shields.io/badge/GitHub-View_Repository-2ea44f?style=for-the-badge&logo=github"/>
-        </a>
-      </td>
-      <td align="center" style="background-color: #252525; border-radius: 10px; padding: 15px; width: 50%;">
-        <h3>📧 Nekoniiis-Mail</h3>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-        <p>A custom mail application with a sleek interface and intuitive user experience.</p>
-        <p><b>Features</b>: Email composition, inbox management, customizable themes</p>
-        <a href="https://github.com/Nekoniiis/Nekoniiis-Mail">
-          <img src="https://img.shields.io/badge/GitHub-View_Repository-2ea44f?style=for-the-badge&logo=github"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="background-color: #252525; border-radius: 10px; padding: 15px;">
-        <h3>💬 Arise-Chat</h3>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-        <p>Real-time messaging platform designed for seamless communication.</p>
-        <p><b>Features</b>: Real-time messaging, user authentication, chat rooms</p>
-        <div>
-          <a href="https://github.com/Nekoniiis/Arise-Chat">
-            <img src="https://img.shields.io/badge/GitHub-View_Repository-2ea44f?style=for-the-badge&logo=github"/>
-          </a>
-          <a href="https://arise-chat.vercel.app/">
-            <img src="https://img.shields.io/badge/Live_Demo-Visit_Site-ff69b4?style=for-the-badge&logo=vercel"/>
-          </a>
-        </div>
-      </td>
-      <td align="center" style="background-color: #252525; border-radius: 10px; padding: 15px;">
-        <h3>🎵 Spotify-Music-Downloader</h3>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-        <p>Utility for music enthusiasts to organize and manage their music collection.</p>
-        <p><b>Features</b>: Playlist management, music organization, user-friendly interface</p>
-        <a href="https://github.com/Nekoniiis/Spotify-Music-Downloader">
-          <img src="https://img.shields.io/badge/GitHub-View_Repository-2ea44f?style=for-the-badge&logo=github"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <hr style="border: 1px solid #8a2be2; margin: 30px 0;">
 
 ## 💻 Tech Stack

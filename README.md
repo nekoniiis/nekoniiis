@@ -1,224 +1,215 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Cat.png" alt="Black Cat" width="35" height="35" /> Nekoniiis
+# <img src="https://img.shields.io/badge/-Nekoniiis-333333?style=flat&logo=github" width="150" /> 
 
 <div align="center">
   
   <!-- Profile image with animation -->
-  <img src="icon.jpeg" alt="Profile Picture" width="200" style="border-radius:50%; border: 3px solid #6e5494; box-shadow: 0 0 15px rgba(110, 84, 148, 0.6); transition: transform 0.3s ease;" />
+  <img src="icon.jpeg" alt="Profile Picture" width="200" style="border-radius:50%; border: 3px solid #6e5494; box-shadow: 0 0 15px rgba(110, 84, 148, 0.6);" />
   
-  <!-- Animated greeting -->
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E5494&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;Frontend+Developer;UI%2FUX+Enthusiast;Web+Artisan" alt="Typing SVG" />
-  </h3>
+  <!-- Title Banner -->
+  <div style="background: linear-gradient(to right, #8a2be2, #4b0082); padding: 10px; border-radius: 10px; margin: 20px 0;">
+    <h3 style="color: white; margin: 0;">
+      Frontend Developer | UI/UX Designer | Web Artisan
+    </h3>
+  </div>
   
-  <!-- Badges with hover effect -->
+  <!-- Badges -->
+  <div>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge&logo=book&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </div>
+
+  <!-- Contribution Graph -->
   <a href="https://github.com/nekoniiis">
-    <img src="https://img.shields.io/github/followers/nekoniiis?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black" alt="GitHub followers"/>
-  </a>
-  <a href="https://github.com/nekoniiis?tab=repositories">
-    <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge&logo=book&logoColor=white&labelColor=black&color=black" alt="License"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=firefox&logoColor=white&labelColor=black&color=black" alt="Portfolio"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nekoniiis&theme=github-compact" width="100%" />
   </a>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
-</div>
+<hr style="border: 1px solid #8a2be2; margin: 30px 0;">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand" width="25" height="25" /> About Me
+## 👋 About Me
 
-<img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
-
-I'm a creative frontend developer passionate about crafting beautiful and functional web experiences. With a focus on modern technologies and innovative design, I build applications that are both aesthetically pleasing and user-friendly.
-
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="20" height="20" /> Currently working on expanding my project portfolio
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Plants/Seedling.png" alt="Seedling" width="20" height="20" /> Learning advanced JavaScript frameworks
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="20" height="20" /> Love exploring new web technologies
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Artist Palette" width="20" height="20" /> Enjoy creating visually appealing interfaces
-
-<br>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Projects
-
-<div class="projects-grid">
-
-  <!-- Project Card Style -->
-  <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🏠 Nekoniiis-Home</h3>
-        <p align="center">
-          <a href="https://github.com/Nekoniiis/Nekoniiis-Home" target="_blank">
-            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-          </a>
-        </p>
-        <p align="center">
-          A personal homepage project showcasing my work and skills in a modern, responsive design.
-        </p>
-        <p align="center">
-          <b>Features</b>: Responsive design, portfolio showcase, contact form
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">📧 Nekoniiis-Mail</h3>
-        <p align="center">
-          <a href="https://github.com/Nekoniiis/Nekoniiis-Mail" target="_blank">
-            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-          </a>
-        </p>
-        <p align="center">
-          A custom mail application with a sleek interface and intuitive user experience.
-        </p>
-        <p align="center">
-          <b>Features</b>: Email composition, inbox management, customizable themes
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">💬 Arise-Chat</h3>
-        <p align="center">
-          <a href="https://github.com/Nekoniiis/Arise-Chat" target="_blank">
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-          </a>
-        </p>
-        <p align="center">
-          Real-time messaging platform designed for seamless communication.
-        </p>
-        <p align="center">
-          <b>Features</b>: Real-time messaging, user authentication, chat rooms
-        </p>
-        <p align="center">
-          <a href="https://arise-chat.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/LIVE_DEMO-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-          </a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🎵 Spotify-Music-Downloader</h3>
-        <p align="center">
-          <a href="https://github.com/Nekoniiis/Spotify-Music-Downloader" target="_blank">
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-          </a>
-        </p>
-        <p align="center">
-          Utility for music enthusiasts to organize and manage their music collection.
-        </p>
-        <p align="center">
-          <b>Features</b>: Playlist management, music organization, user-friendly interface
-        </p>
-      </td>
-    </tr>
-  </table>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 2;">
+    <p>I'm a creative frontend developer passionate about crafting beautiful and functional web experiences. With a focus on modern technologies and innovative design, I build applications that are both aesthetically pleasing and user-friendly.</p>
+    <ul>
+      <li>🔭 Currently working on expanding my project portfolio</li>
+      <li>🌱 Learning advanced JavaScript frameworks</li>
+      <li>💡 Love exploring new web technologies</li>
+      <li>🎨 Enjoy creating visually appealing interfaces</li>
+    </ul>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
   </div>
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Tech Stack
+<hr style="border: 1px solid #8a2be2; margin: 30px 0;">
+
+## 🚀 Projects
 
 <div align="center">
-  <!-- First Row -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  
-  <!-- Second Row -->
-  <br><br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  
-  <!-- Third Row -->
-  <br><br>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
-  
-  <!-- Fourth Row -->
-  <br><br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <!-- Project Cards -->
+  <table style="border-collapse: separate; border-spacing: 15px;">
+    <tr>
+      <td align="center" style="background-color: #252525; border-radius: 10px; padding: 15px; width: 50%;">
+        <h3>🏠 Nekoniiis-Home</h3>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <p>A personal homepage project showcasing my work and skills in a modern, responsive design.</p>
+        <p><b>Features</b>: Responsive design, portfolio showcase, contact form</p>
+        <a href="https://github.com/Nekoniiis/Nekoniiis-Home">
+          <img src="https://img.shields.io/badge/GitHub-View_Repository-2ea44f?style=for-the-badge&logo=github"/>
+        </a>
+      </td>
+      <td align="center" style="background-color: #252525; border-radius: 10px; padding: 15px; width: 50%;">
+        <h3>📧 Nekoniiis-Mail</h3>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+        <p>A custom mail application with a sleek interface and intuitive user experience.</p>
+        <p><b>Features</b>: Email composition, inbox management, customizable themes</p>
+        <a href="https://github.com/Nekoniiis/Nekoniiis-Mail">
+          <img src="https://img.shields.io/badge/GitHub-View_Repository-2ea44f?style=for-the-badge&logo=github"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="background-color: #252525; border-radius: 10px; padding: 15px;">
+        <h3>💬 Arise-Chat</h3>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        <p>Real-time messaging platform designed for seamless communication.</p>
+        <p><b>Features</b>: Real-time messaging, user authentication, chat rooms</p>
+        <div>
+          <a href="https://github.com/Nekoniiis/Arise-Chat">
+            <img src="https://img.shields.io/badge/GitHub-View_Repository-2ea44f?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://arise-chat.vercel.app/">
+            <img src="https://img.shields.io/badge/Live_Demo-Visit_Site-ff69b4?style=for-the-badge&logo=vercel"/>
+          </a>
+        </div>
+      </td>
+      <td align="center" style="background-color: #252525; border-radius: 10px; padding: 15px;">
+        <h3>🎵 Spotify-Music-Downloader</h3>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        <p>Utility for music enthusiasts to organize and manage their music collection.</p>
+        <p><b>Features</b>: Playlist management, music organization, user-friendly interface</p>
+        <a href="https://github.com/Nekoniiis/Spotify-Music-Downloader">
+          <img src="https://img.shields.io/badge/GitHub-View_Repository-2ea44f?style=for-the-badge&logo=github"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<details>
-<summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /> Skills</h2></summary>
-<br>
+<hr style="border: 1px solid #8a2be2; margin: 30px 0;">
 
-### Front-End Development
-- Creating responsive layouts that work across all devices
-- Building user-friendly interfaces with modern design principles
-- Implementing complex UI animations and transitions
-- Ensuring accessibility compliance (WCAG guidelines)
+## 💻 Tech Stack
 
-### UI/UX Design
-- User research and persona development
-- Wireframing and prototyping
-- Usability testing and iteration
-- Interface design systems creation
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" title="HTML5"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" title="CSS3"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" title="JavaScript"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" title="TypeScript"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" title="React"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" title="Next.js"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" title="Node.js"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" title="Express.js"/>
+  </div>
+  
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" title="Tailwind CSS"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60" title="Sass"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" title="Bootstrap"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="60" title="Material UI"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" title="Git"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" title="Figma"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" title="Firebase"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" title="VS Code"/>
+  </div>
+</div>
 
-### Web Performance
-- Image optimization and lazy loading
-- Code splitting and bundling
-- Caching strategies implementation
-- Core Web Vitals optimization
+<hr style="border: 1px solid #8a2be2; margin: 30px 0;">
 
-### Technical Skills
-- Frontend Development
-- Responsive Web Design
-- Web Animation
-- Cross-browser Compatibility
-- Performance Optimization
-- Version Control (Git)
-- Wireframing & Prototyping
-- Web Accessibility
-</details>
+## 🌟 Skills
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Incoming Envelope" width="25" height="25" /> Connect With Me
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="flex: 1; min-width: 300px;">
+    <h3>Front-End Development</h3>
+    <ul>
+      <li>Responsive Web Design</li>
+      <li>Modern Frontend Frameworks</li>
+      <li>UI Animation & Transitions</li>
+      <li>Web Accessibility (WCAG)</li>
+    </ul>
+  </div>
+  
+  <div style="flex: 1; min-width: 300px;">
+    <h3>UI/UX Design</h3>
+    <ul>
+      <li>User Research & Personas</li>
+      <li>Wireframing & Prototyping</li>
+      <li>Usability Testing</li>
+      <li>Interface Design Systems</li>
+    </ul>
+  </div>
+  
+  <div style="flex: 1; min-width: 300px;">
+    <h3>Web Performance</h3>
+    <ul>
+      <li>Asset Optimization</li>
+      <li>Code Splitting & Bundling</li>
+      <li>Caching Strategies</li>
+      <li>Core Web Vitals Optimization</li>
+    </ul>
+  </div>
+</div>
+
+<hr style="border: 1px solid #8a2be2; margin: 30px 0;">
+
+## 📫 Connect With Me
+
+<div align="center" style="margin: 20px 0;">
+  <a href="https://github.com/nekoniiis" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="#" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="#" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="#" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="#" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>
+  </a>
+</div>
+
+<hr style="border: 1px solid #8a2be2; margin: 30px 0;">
+
+## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/nekoniiis">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Behance-0057ff?style=for-the-badge&logo=behance&logoColor=white"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nekoniiis&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <img width="49%" src="https://streak-stats.demolab.com?user=nekoniiis&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nekoniiis&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nekoniiis&theme=tokyonight" alt="GitHub Streak" />
+<div align="center" style="margin-top: 20px;">
+  <a href="https://github.com/nekoniiis">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekoniiis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekoniiis&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
----
+<hr style="border: 1px solid #8a2be2; margin: 30px 0;">
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nekoniiis&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  <br><br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hearts/Purple%20Heart.png" alt="Purple Heart" width="20" height="20" />
-  <sub>Built with passion by Nekoniiis</sub>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hearts/Purple%20Heart.png" alt="Purple Heart" width="20" height="20" />
+  <p style="margin-top: 20px; font-size: 16px;">
+    💜 Built with passion by Nekoniiis 💜
+  </p>
 </div> 
